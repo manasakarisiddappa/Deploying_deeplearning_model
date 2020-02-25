@@ -1,0 +1,6 @@
+Download all dependencies
+1.tensorflow
+2.numpy
+3.flask
+4.python
+
